@@ -1,9 +1,9 @@
 # List of tasks for String index assignment
 
 <!-- Link for task.md -->
-- [Space-Free String](task1.md)
-- [Count Digits](task2.md)
-- [Reverse String](task3.md)
+- [Space-Free String](task01.md)
+- [Count Digits](task02.md)
+- [Reverse String](task03.md)
 
 ## Instructions
 
